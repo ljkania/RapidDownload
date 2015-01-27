@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FileShark -- Zanurz się w morzu plików.</title>
+        <meta charset="UTF-8">
+
+<meta name="google-site-verification" content="zGRlNWEogOPTJwdZw2IrRSUKVK3IJZ55NMl5FIrli_E" />
+<meta name="verification" content="a6222d80abace55884ca2067458ea35b" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<!-- Latest compiled and minified CSS -->
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,900,700italic,700,500italic,500,400italic,300italic,300,100italic,100&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+
+<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+<!-- (C)2000-2013 Gemius SA - gemiusAudience / pp.FileShark.pl / podstrony -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = 'ogWVTvMzLVgGG_Ld3lvi2vV4T.RdjtCa1cGWT7opj0v.b7';
+// lines below shouldn't be edited
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+gt.setAttribute('defer','defer'); gt.src=l+'://gapl.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script>
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="/assets/js/html5shiv.js"></script>
+  <script src="/assets/js/respond.min.js"></script>
+<![endif]-->
+                        <link href="/css/8705033.css" rel="stylesheet" media="screen" />
+            </head>
+    <body class="not-front view-file">
+        <!-- NAV TOP -->
+        <div id="navTop">
+            <div class="container">
+                <nav class="navbar navbar-default" role="navigation">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/"><img src="/img/logo-beta.png" alt=""></a>
+    </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                <li >
+                    <a href="/wgraj">Wgraj plik</a>
+                </li>
+                <li >
+                    <a href="/premium/kup">Premium</a>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pomoc <i class="icon-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li >
+                            <a href="/strona/zarabiaj-na-pobraniach">Zarabiaj na pobraniach</a>
+                        </li>
+                        <li >
+                          <a href="/faq/">FAQ</a>
+                        </li>
+                        <li >
+                            <a href="/strona/DMCA">DMCA</a>
+                        </li>
+                        <li >
+                            <a href="/strona/regulamin">Regulamin</a>
+                        </li>
+                        <li >
+                            <a href="/kontakt">Kontakt</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a class="btn-login ajax" href="/zaloguj">Zaloguj</a></li>
+                          <li><a class="btn-register ajax" href="/rejestracja/">Zarejestruj</a></li>
+            </ul>
+                    </div><!--/.nav-collapse -->
+</div>
+            </div>
+        </div>
+        <!-- END:// NAV TOP -->
+                <!-- HEADER -->
+        <div id="header">
+            <div class="container">
+                    <div class="col-sm-12">
+        <br/>
+        <br/>
+                <div class="text-center">
+        <div id='bmone2n-21289.1.1.1'>
+<noscript><div style='display:inline'><a href='http://go.evolutionmedia.bbelements.com/please/redirect/21289/1/1/1/'><img src='http://go.evolutionmedia.bbelements.com/please/showit/21289/1/1/1/?typkodu=img' style='border-width:0' alt='' /></a></div></noscript>
+</div>
+        </div>
+        <br/>
+        <br/>
+        <div class="col-lg-12 alert alert-warning">
+            <p class="text-center lead">Aby rozpocząć pobieranie przepisz poniższy kod</p>
+            <br/>
+            <div class="col-lg-4 col-sm-offset-4">
+                <form method="post" action="">
+                    
+
+                        <div class="form-group">
+                                <div class="row"><div style="margin-left: 90px;"><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gMzAK/9sAQwAbEhQXFBEbFxYXHhwbIChCKyglJShROj0wQmBVZWRfVV1baniZgWpxkHNbXYW1hpCeo6utq2eAvMm6pseZqKuk/9sAQwEcHh4oIyhOKytOpG5dbqSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSk/8AAEQgAMgCCAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A6aiiigAopCdoJOePQZqtLeYm8qGJpWH3sHGKLEuSW5aoqOGXzVztZD0KsORSGYC4EODuK7s0DutyWikPTiq1xdPDOkYj8wsCfl60WByUVdlqiq1veLPIY/LdHAyQwqxz3wKdgTT1QtFN2+pJ/HFLg+tIYtFNAbuR+VLtB6jP1oAWiiigAooooAKgmFzvzA0e3GCHB49+KnooE1cphtQOP3cAz7niqSXM8DTP5Pz78uc8D2rZqo6TQTtJCgkSTllzgg+tUmZTg9GmxbO8W6U8bXXqM1HLvOpgR4BMWN393nrUaW8txcvMVa2GMfKeSajQXYvmzLH5gTlmHBGelFlclydlfuWbbzIr6SFpWkUpuG760+4t5WuUniZQyrjDDiq4iv47ppQEkYrjJ4FB1CeKbbNAVUnj/wDX3p27BzJK0r7lmC5ZpfJnj8uXGRjo30qS4nWCPcwJJOFUdSarRmS6u45vKaOOMHlupzS3jiO7tnk4jBbn0OKVtS+ZqLY5J7kOvm2+1GIGVOSM+tW6jWeFmCrKjE9AGBpl5cfZoDJjJ6Ae9IpNRV27k9FUkhvWUM9yFb+6EBxVuPeEHmEFu5HSiw4yv0HUUUUigooooAKKKKACiiigApBS0lIBpUgfJx3x2NIypMrI65HcEVJTWGRwcHsaYrFU2TxnNtcPGB0Q8imyW966lTNE6n+8lXQc8Hg9xS07keziZ8cVxbHcttDJ/uHBH50s7x31uyRttkByEbg5FX6hmtop8GRfmHRgcEU7icGlZbEKajFtxIGWQcFNvOatg5AOCM9jVL7NeR4EVyGGefMGSP50u7UAR+7hPfOT+VFl0CMpL4kXaKo/aryP/W2hbPTYc4/nVuKVZow6Hg+opWLU09B9FFFIoKKKKACiiigAooooAKKKKACiiigAooooAKKKKACkoooAWiiigD//2Q==" title="captcha" width="130" height="50" /><label class="sr-only" for="form_captcha">Kod:</label><input type="text" id="form_captcha" name="form[captcha]" required="required"    class="form-control" placeholder="Kod:" style="width:130px" /></div></div>
+                        </div>
+                        <div class="form-group">
+                            <div class="row">
+                                <div class="col-sm-12 col-sm-offset-1">
+                                    <div class="col-lg-4">
+                                        <a class="btn btn-primary" href="#" onclick="location.reload();return false">Odśwież</a>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <button type="submit" id="form_start" name="form[start]"    class="btn btn-primary form-control">Pobierz</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    <input type="hidden" id="form__token" name="form[_token]" value="f334b2bd686f1c0eae283ea2a754ad9f1a0d55c3" />
+                </form>
+            </div>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+        </div>
+                                                                                </div>
+    <div class="header">
+        <header>
+            <div class="slogan col-sm-12">
+                <p class="text-center">Nie chcesz czekać?</p>
+                <p class="text-center">Wybierz rodzaj płatności i pobierz plik dużo szybciej na warunkach konta premium.</p>
+                <div class="col-sm-6 col-sm-offset-4">
+                    <div class="action">
+                        <a href="/pobranie-sms/1524043/0h9v9" class="btn-pay-sms popup ajax">Zapłać SMSem</a>
+                                                <a href="/pobranie-dotpay/1524043/0h9v9" class="btn-pay-dotpay popup ajax">Zapłać DotPay</a>
+                        <a href="#" class="ico-question popup"></a>
+                        <div class="popup dark arrow bottom right col-sm-12" id="question-pay">
+                            <div>
+                                <p>Możesz zapłacić SMS lub przelewem za transfer potrzebny do pobrania tego pliku. Ściąganie rozpocznie się natychmiastowo na warunkach konta PREMIUM, bez oczekiwania i ograniczenia prędkości pobierania.</p>
+                                <em>W przypadku zmiany adresu IP mogą powstać problemy ze wznowieniem pobierania. Załóż konto w serwisie fileshark.pl i wykup czasowe konto PREMIUM, by mieć gwarantowaną możliwość wznawiania pobierania pliku.</em>
+                                <span class="arrow"></span>
+                            </div>
+                        </div>
+                        <div class="popup light arrow bottom left col-sm-10 popup-pay" id="popup-pay-sms">
+                        </div>
+                        <div class="popup light arrow bottom left col-sm-10 popup-pay" id="popup-pay-dotpay">
+                        </div>
+                    </div>
+                </div>
+                <h2 class="text-center">Kupujący konto premium zyskuje</h2>
+                <div class="row listing-left">
+                    <div class="col-sm-5 col-md-offset-1">
+                        <p><i class="sprite sprite-ico-01"></i> Automatyczne rozpoczynanie pobierania</p>
+                        <p><i class="sprite sprite-ico-02"></i> Maksymalna prędkość pobierania</p>
+                        <p><i class="sprite sprite-ico-o3"></i></i><span></span> Nieograniczony czas przechowywania plików</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p><i class="sprite sprite-ico-04"></i> Możliwość pobierania wielu plików równocześnie</p>
+                        <p><i class="sprite sprite-ico-05"></i> Możliwość wznawiania/przerywania pobierania plików</p>
+                        <p><i class="sprite sprite-ico-06"></i> Brak oczekiwania na pobranie</p>
+                    </div>
+
+                </div>
+
+            </div>
+        </header>
+    </div>
+    <br/>
+    <br/>
+    <br/>
+            </div>
+        </div>
+        <!-- END:// HEADER -->
+        <!-- TOP -->
+                <!-- END:// TOP -->
+        <!-- MAIN -->
+        <div id="main">
+            <div id="innerMain">
+                <div class="container">
+                    <div class="row">
+    <section>
+        <div class="col-sm-4 col-sm-offset-4">
+            <div class="panel premium">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Premium</h3>
+                </div>
+                <div class="panel-body">
+                    <ul>
+                        <li>Maksymalny transfer.</li>
+                        <li>Pobieranie wielu plików jednocześnie.</li>
+                        <li>Natychmiastowe pobieranie.</li>
+                        <li>Możliwość wznawiania pobierania.</li>
+                    </ul>
+                </div>
+                <div class="panel-footer">
+                    <a href="/premium/kup" class="btn-upload-premium">Pobierz<br><small>bez ograniczeń</small></a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+                </div>
+            </div>
+                    </div>
+        <!-- END:// MAIN -->
+                <!-- FOOTER -->
+        <div id="footer">
+            <div class="container">
+                <div class="footer">
+    <footer>
+        <div class="row">
+            <div class="col-sm-2">
+                <p>Copyright 2014 <a href="#">FileShark</a></p>
+            </div>
+            <div class="col-sm-3 link-checker-container">
+                <div class="col-sm-10 links">
+                    <div class="form-group">
+                        <textarea wrap="off" rows="1" class="form-control link-checker" placeholder="Wprowadź linki"></textarea>
+                    </div>
+                </div>
+                <div class="col-sm-2 statuses">
+                </div>
+            </div>
+            <div class="col-sm-7">
+                <nav>
+                    <ul>
+                        <li><a class="btn-upload-small" href="/wgraj">Wgraj plik</a></li>
+                        <li><a href="/faq/">FAQ</a></li>
+                        <li><a href="/strona/DMCA">DMCA</a></li>
+                        <li><a href="/strona/regulamin">Regulamin</a></li>
+                        <li><a href="/strona/polityka-prywatnosci">Polityka prywatności</a></li>
+                        <li><a href="/kontakt">Kontakt</a></li>
+                    </ul>
+                </nav>
+                                                                                </div>
+        </div>
+    </footer>
+</div>
+            </div>
+        </div>
+        <!-- END:// FOOTER -->
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=625304224216413";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+        <div id="face-slider" class="not-visible">
+            <div id="tab"></div>
+            <div id="face-code">
+                <div class="fb-like-box" data-href="https://www.facebook.com/filesharkpl?fref=ts" data-width="190" data-height="325" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+            </div>
+        </div>
+
+        <div id="div_cookis" style="display: block;">
+           <p>Serwis korzysta z plików cookies w celu realizacji usług, oraz zgodnie z <a href="/strona/regulamin" class="info" >Polityką Plików Cookies</a>.
+           Korzystając z tej strony zgadzasz się na użycie plików cookie. <a id="cookis_ok" class="button">ZAMKNIJ</a></p>
+        </div>
+                                <script src="/js/37d82b0.js"></script>
+                <script type="text/javascript">
+        jQuery.noConflict();
+
+var handleError;
+
+var sharkShere = sharkShere || {};
+
+(function( $, sharkShare ) {
+
+    handleError = function(message){
+
+        var errors = {
+            'enterid.js.error.undenefined': 'Wystąpił nieoczekiwany błąd.',
+            'enterid.js.error.file-size': 'Plik jest za duży.'
+        };
+
+        var modal =
+            '<div>' +
+            '<div class="modal error">' +
+             '<div class="modal-dialog">' +
+                '<div class="modal-content">' +
+                  '<div class="modal-header">' +
+                    '<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>' +
+                    '<h4 class="modal-title">Wystąpił błąd</h4>' +
+                  '</div>' +
+                  '<div class="modal-body">' +
+                    '<p>' + errors[message] + '</p>' +
+                  '</div>' +
+                  '<div class="modal-footer">' +
+                    '<button type="button" class="btn btn-primary" data-dismiss="modal">Zamknij</button>' +
+                  '</div>' +
+                '</div><!-- /.modal-content -->' +
+              '</div><!-- /.modal-dialog -->' +
+            '</div><!-- /.modal -->' +
+            '</div>'
+        ;
+
+        sharkShare.handleResponse({'modal':modal});
+
+    };
+
+})( jQuery, sharkShere );
+        </script>
+        
+    <!-- iBILLBOARD Ad Server one2many code -->
+<script type='text/javascript' charset='utf-8' src='http://go.evolutionmedia.bbelements.com/bb/bb_one2n.js'></script>
+<script type='text/javascript'>/* <![CDATA[ */
+var bbkeywords=''; //fill in: 'key1;key2;..'
+bmone2n.addPosition('21289.1.1.2','');
+bmone2n.addPosition('21289.1.1.12','');
+bmone2n.addPosition('21289.1.1.4','');
+bmone2n.addPosition('21289.1.1.1','');
+bmone2n.getAd('go.evolutionmedia.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'utf-8');
+/* ]]> */</script>
+<div id='bmone2t-21289.1.1.2' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('21289.1.1.2'); /* ]]> */</script></div>
+<div id='bmone2t-21289.1.1.12' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('21289.1.1.12'); /* ]]> */</script></div>
+<div id='bmone2t-21289.1.1.4' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('21289.1.1.4'); /* ]]> */</script></div>
+<div id='bmone2t-21289.1.1.1' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('21289.1.1.1'); /* ]]> */</script></div>
+<script type='text/javascript'>/* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */</script>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-50122348-1', 'fileshark.pl');
+            ga('send', 'pageview');
+        </script>
+    </body>
+</html>

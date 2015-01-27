@@ -4,7 +4,15 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/home/ljk/NetBeansProjects/RapidDownload/src/java/rapid/common/Message.java</file>
+            <file>file:/home/ljk/NetBeansProjects/RapidDownload/src/java/rapid/common/FileExchange.java</file>
+            <file>file:/home/ljk/NetBeansProjects/RapidDownload/src/java/rapid/client/DownloadManager.java</file>
             <file>file:/home/ljk/NetBeansProjects/RapidDownload/src/java/rapid/server/MainServer.java</file>
+            <file>file:/home/ljk/NetBeansProjects/RapidDownload/src/java/rapid/common/Config.java</file>
+            <file>file:/home/ljk/NetBeansProjects/RapidDownload/src/java/rapid/server/FileSharkModule.java</file>
+            <file>file:/home/ljk/NetBeansProjects/RapidDownload/src/java/rapid/client/Download.java</file>
+            <file>file:/home/ljk/NetBeansProjects/RapidDownload/src/java/rapid/common/MessageType.java</file>
+            <file>file:/home/ljk/NetBeansProjects/RapidDownload/src/java/rapid/common/Module.java</file>
+            <file>file:/home/ljk/NetBeansProjects/RapidDownload/src/java/rapid/server/UserServer.java</file>
         </group>
     </open-files>
 </project-private>
